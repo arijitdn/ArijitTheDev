@@ -1,18 +1,27 @@
-<h1 align="center">Hi 👋, I'm Arijit Debnath</h1>
-<h3 align="center">A passionate developer from India</h3>
+<h2> Hi, I'm Arijit Debnath! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<img align='right' src="https://i.ibb.co/18kWR0R/static-4.png" width="230">
+<p><em>Verified Bot Developer at <a href="https://discord.com">Discord</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Community Mgmt. and Lead Developer at <a href="https://discord.gg/q6pAuCE8xh">IniTDev</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
 
-- 🔭 I’m currently working on **Aurous Project**
+[![Twitter: ArijitTheDev](https://img.shields.io/twitter/follow/NotArijit?style=social)](https://twitter.com/NotArijit)
+[![GitHub ArijitTheDev](https://img.shields.io/github/followers/ArijitTheDev?label=follow&style=social)](https://github.com/ArijitTheDev)
 
-- 🌱 I’m currently learning **JavaScript and NodeJs**
 
-- 📫 How to reach me **itsarijitdebnath@gmail.com**
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/arijitdn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arijitdn" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/adntechs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="adntechs" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/G7zU7PQwNq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/G7zU7PQwNq" height="30" width="40" /></a>
-</p>
+```javascript
+const arijit = {
+  pronouns: "he" | "him",
+  code: [Javascript, Typescript, HTML, CSS, Python],
+  working: ["bot development", "community mgmt", "initdev lead"],
+  techCommunities: {
+                        lead: "IniTDev",
+                        developer: ["Siyuu Devs", "Ukii devs", "IniTDev Development"]
+                      },
+ challenge: "Making the best possible things for free!"
+}
+```
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> </p>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
+---
