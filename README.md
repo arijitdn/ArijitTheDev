@@ -4,7 +4,7 @@
 </em></p>
 
 [![Twitter: ArijitTheDev](https://img.shields.io/twitter/follow/NotArijit?style=social)](https://twitter.com/NotArijit)
-[![GitHub ArijitTheDev](https://img.shields.io/github/followers/ArijitTheDev?label=follow&style=social)](https://github.com/ArijitTheDev)
+[![GitHub Arijitdn](https://img.shields.io/github/followers/ArijitTheDev?label=follow&style=social)](https://github.com/ArijitTheDev)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
@@ -13,11 +13,7 @@
 const arijit = {
   pronouns: "he" | "him",
   code: [Javascript, Typescript, HTML, CSS, Python],
-  working: ["bot development", "community mgmt", "initdev lead"],
-  techCommunities: {
-                        lead: "IniTDev",
-                        developer: ["Siyuu Devs", "Ukii devs", "IniTDev Development"]
-                      },
+  working: ["Frontend Developer", "Backend Developer", "Bot Developer"],
  challenge: "Making the best possible things for free!"
 }
 ```
