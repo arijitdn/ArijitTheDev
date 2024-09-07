@@ -8,7 +8,7 @@ I love coding using Javascript, I have been working on many projects based on No
 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [arijit.dev](https://arijit.dev)
-* ✉️  You can contact me at [mail@arijit.dev](mailto:mail@arijit.dev)
+* ✉️  You can contact me at [contact@arijit.dev](mailto:contact@arijit.dev)
 * 🧠  I'm learning React, Tailwind and NextJS
 * 🤝  I'm open to collaborating on discord bot projects
 * ⚡  I create bugs in code
